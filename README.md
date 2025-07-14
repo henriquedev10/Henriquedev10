@@ -134,3 +134,4 @@ My name is Henrique Almeida, and I'm from São Paulo. I've always been fascinate
   height="200" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriquedev10&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=9" 
 />
+
