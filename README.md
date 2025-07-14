@@ -7,7 +7,7 @@ My name is Henrique Almeida, and I'm from São Paulo. I've always been fascinate
 
 ---
 
-### 🤖 Skills
+### Skills
 
 <img 
     align="left" 
