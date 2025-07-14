@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Henrique Almeida, sou natural de São Paulo. Concluí um curso técnico em informática e sempre gostei de temas relacionados à tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho. Estou com um projeto em andamento referente a criação de uma startup"[NextCode](https://www.instagram.com/next.code01/)" com foco em desenvolvimento de software e inovação tecnológica.
+Me chamo Henrique Almeida, sou natural de São Paulo. Sempre fui fascinado à temas relacionados à tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho. Estou com um projeto em andamento referente a criação de uma startup"[NextCode](https://www.instagram.com/next.code01/)" com foco em desenvolvimento de software e inovação tecnológica.
 
 
 
