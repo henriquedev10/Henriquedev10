@@ -1,14 +1,13 @@
 # 👨🏽‍💻 Henrique Almeida
 
-**`Desenvolvedor FullStack`**
+**`FullStack Developer`**
 
-Me chamo Henrique Almeida, sou natural de São Paulo. Sempre fui fascinado à temas relacionados à tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho. Estou com um projeto em andamento referente a criação de uma startup"[NextCode](https://www.instagram.com/next.code01/)" com foco em desenvolvimento de software e inovação tecnológica.
-
+My name is Henrique Almeida, and I'm from São Paulo. I've always been fascinated by technology-related topics. I'm currently studying Systems Analysis and Development at Nove de Julho University. I'm working on a project to create a startup, "NextCode," focused on software development and technological innovation.
 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Skills
 
 <img 
     align="left" 
@@ -126,7 +125,7 @@ Me chamo Henrique Almeida, sou natural de São Paulo. Sempre fui fascinado à te
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Status
 
 <p>
   <img 
